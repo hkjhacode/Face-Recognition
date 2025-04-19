@@ -1,7 +1,0 @@
-Filename,Predicted,Confidence
-test1.png,NoFaceDetected,N/A
-test2.png,Unknown,80.4
-test3.png,Unknown,83.4
-test4.png,person2,68.4
-test5.png,person2,63.4
-test6.png,person1,61.8
