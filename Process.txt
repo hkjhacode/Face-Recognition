@@ -1,5 +1,0 @@
-Hello Sir/Mam,
-    This is the documant(log) of how I made this project. As you asked to choose between opencv and facenet so as the time is limited so I chose Opencv. And the Logs are below:
-    
-    1. First I researched for available libraries inside the opencv for the face recogniton task
-    2. 
